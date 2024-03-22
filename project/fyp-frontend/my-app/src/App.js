@@ -7,7 +7,7 @@ import SignUpSeeker from "./components/SignUpSeeker";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import  Chat  from "./components/Chat";
 import JobPosting from "./components/JobPosting";
-import Header from "./components/Header";
+import Header from "./components/Header"
 import HeaderVerified from "./components/HeaderVerified";
 import HomePage from "./components/HomePage";
 import ApplyJobModal from "./components/ApplyJobModal";
